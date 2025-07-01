@@ -94,7 +94,7 @@ Then visit:
 `application.properties` is included in `.gitignore` to prevent leaking sensitive data.
 Always keep your database credentials secure and never commit them to version control.
 
----
+
 
 ## ✅ Technologies Used
 
@@ -104,4 +104,4 @@ Always keep your database credentials secure and never commit them to version co
 * Maven
 * Lombok
 
-```
+
