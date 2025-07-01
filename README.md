@@ -1,6 +1,6 @@
-Absolutely! Here's the complete `README.md` in **one unbroken block** for easy copy-paste:
 
-````markdown
+
+
 # Spring Boot + MongoDB Auth Demo
 
 This is a demo backend project using **Spring Boot**, **MongoDB Atlas**, and basic **User API** endpoints (`signup`, `getAllUsers`, etc).
@@ -13,7 +13,6 @@ This is a demo backend project using **Spring Boot**, **MongoDB Atlas**, and bas
 
 ```bash
 git clone https://github.com/Dimuthnilanjana/signup-web-backend.git
-cd demo
 ````
 
 ---
